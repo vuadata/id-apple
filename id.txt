@@ -1,4 +1,4 @@
 {
-id: "baontq@sdasdas.csad",
-pass: "Test"
+"id": "baontq@sdasdas.csad",
+"pass": "Test"
 }
